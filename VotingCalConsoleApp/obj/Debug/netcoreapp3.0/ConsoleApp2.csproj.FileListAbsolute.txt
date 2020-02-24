@@ -1,0 +1,33 @@
+X:\UoL\Year 1\Object-Orientated Programming\Assignment 1\ConsoleApp2\bin\Debug\netcoreapp3.0\ConsoleApp2.exe
+X:\UoL\Year 1\Object-Orientated Programming\Assignment 1\ConsoleApp2\bin\Debug\netcoreapp3.0\ConsoleApp2.deps.json
+X:\UoL\Year 1\Object-Orientated Programming\Assignment 1\ConsoleApp2\bin\Debug\netcoreapp3.0\ConsoleApp2.runtimeconfig.json
+X:\UoL\Year 1\Object-Orientated Programming\Assignment 1\ConsoleApp2\bin\Debug\netcoreapp3.0\ConsoleApp2.runtimeconfig.dev.json
+X:\UoL\Year 1\Object-Orientated Programming\Assignment 1\ConsoleApp2\bin\Debug\netcoreapp3.0\ConsoleApp2.dll
+X:\UoL\Year 1\Object-Orientated Programming\Assignment 1\ConsoleApp2\bin\Debug\netcoreapp3.0\ConsoleApp2.pdb
+X:\UoL\Year 1\Object-Orientated Programming\Assignment 1\ConsoleApp2\obj\Debug\netcoreapp3.0\ConsoleApp2.AssemblyInfoInputs.cache
+X:\UoL\Year 1\Object-Orientated Programming\Assignment 1\ConsoleApp2\obj\Debug\netcoreapp3.0\ConsoleApp2.AssemblyInfo.cs
+X:\UoL\Year 1\Object-Orientated Programming\Assignment 1\ConsoleApp2\obj\Debug\netcoreapp3.0\ConsoleApp2.dll
+X:\UoL\Year 1\Object-Orientated Programming\Assignment 1\ConsoleApp2\obj\Debug\netcoreapp3.0\ConsoleApp2.pdb
+X:\UoL\Year 1\Object-Orientated Programming\Assignment 1\ConsoleApp2\obj\Debug\netcoreapp3.0\ConsoleApp2.csprojAssemblyReference.cache
+F:\UoL\OOP\VotingCalConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp2.exe
+F:\UoL\OOP\VotingCalConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp2.deps.json
+F:\UoL\OOP\VotingCalConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp2.runtimeconfig.json
+F:\UoL\OOP\VotingCalConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp2.runtimeconfig.dev.json
+F:\UoL\OOP\VotingCalConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp2.dll
+F:\UoL\OOP\VotingCalConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp2.pdb
+F:\UoL\OOP\VotingCalConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp2.csprojAssemblyReference.cache
+F:\UoL\OOP\VotingCalConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp2.AssemblyInfoInputs.cache
+F:\UoL\OOP\VotingCalConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp2.AssemblyInfo.cs
+F:\UoL\OOP\VotingCalConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp2.dll
+F:\UoL\OOP\VotingCalConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp2.pdb
+E:\UoL\OOP\VotingCalConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp2.exe
+E:\UoL\OOP\VotingCalConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp2.deps.json
+E:\UoL\OOP\VotingCalConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp2.runtimeconfig.json
+E:\UoL\OOP\VotingCalConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp2.runtimeconfig.dev.json
+E:\UoL\OOP\VotingCalConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp2.dll
+E:\UoL\OOP\VotingCalConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp2.pdb
+E:\UoL\OOP\VotingCalConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp2.csprojAssemblyReference.cache
+E:\UoL\OOP\VotingCalConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp2.AssemblyInfoInputs.cache
+E:\UoL\OOP\VotingCalConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp2.AssemblyInfo.cs
+E:\UoL\OOP\VotingCalConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp2.dll
+E:\UoL\OOP\VotingCalConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp2.pdb
